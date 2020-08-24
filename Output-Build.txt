@@ -1,0 +1,15 @@
+﻿1>------ Build started: Project: TetrisCpp, Configuration: Debug Win32 ------
+1>main.cpp
+1>C:\Users\zhang\source\repos\TetrisCpp\main.cpp(63,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>C:\Users\zhang\source\repos\TetrisCpp\main.cpp(62,97): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+1>        with
+1>        [
+1>            T=float
+1>        ]
+1>TetrisCpp.vcxproj -> C:\Users\zhang\source\repos\TetrisCpp\Debug\TetrisCpp.exe
+1>Done building project "TetrisCpp.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
